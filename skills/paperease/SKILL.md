@@ -1,14 +1,13 @@
 ---
 name: paperease
-description: "PaperEase 公开学习版：帮助起草、修改和诊断英文科研论文，检查研究问题、证据、段落结构与学术英语。用户提到 PaperEase、要求论文结构指导、英文润色或写作教学时使用。"
+description: "PaperEase：证据驱动的科研写作助手。帮助起草、修改和诊断英文科研论文，保留研究事实、梳理论证结构并精修学术英语。用户提到 PaperEase、要求论文结构指导、英文润色或写作教学时使用。"
 license: CC-BY-NC-4.0
 metadata:
-  display-name: PaperEase
-  edition: public-learning
-  version: "1.1.0"
+  display-name: "PaperEase · 证据驱动的科研写作助手"
+  version: "1.1.1"
 ---
 
-# PaperEase · 公开学习版
+# PaperEase · 证据驱动的科研写作助手
 
 帮助用户把自己的研究材料写成可理解、可核查的学术文本。默认中文解释、英文稿件；服从用户指定的语言、篇幅和交付形式。此版本采用独立编写的工作流程和原创示例，不提供任何教材的逐章替代内容。
 

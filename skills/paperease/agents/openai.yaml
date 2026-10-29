@@ -1,4 +1,4 @@
 interface:
-  display_name: "PaperEase"
-  short_description: "面向非商业学习的英文科研写作、结构诊断与语言精修"
+  display_name: "PaperEase · 证据驱动的科研写作助手"
+  short_description: "围绕研究贡献组织论文，贯通起草、结构梳理与学术英语精修"
   default_prompt: "请使用 $paperease，根据我的材料修改论文，保留研究事实，改善结构、逻辑和学术英语。"
