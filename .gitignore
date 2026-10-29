@@ -1,0 +1,11 @@
+*.pdf
+*.docx
+*.zip
+*.local.json
+.env
+.env.*
+source-pages/
+full-text.txt
+__pycache__/
+.DS_Store
+Thumbs.db
